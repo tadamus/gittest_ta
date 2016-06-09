@@ -1,3 +1,4 @@
+# Usage: python list_text_files.py
 import glob
 
 filelist = glob.glob('*.txt')
