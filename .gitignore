@@ -1,3 +1,4 @@
+*.pdb
 *.dat
 results/
 bio/bio.txt
