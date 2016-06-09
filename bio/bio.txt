@@ -1,4 +1,0 @@
-Librarian, runner, hockey player.
-Lives in Madison, WI, four years!
-Learning software carpentry skills today.
-New line!!!
